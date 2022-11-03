@@ -5,9 +5,9 @@
         const theme = _Blockly.getMainWorkspace().getTheme();
 
         const variableStyle = theme.blockStyles["variable-block-style"];
-        variableStyle.colourPrimary = "##700202";
-        variableStyle.colourSecondary = "##f77002";
-        variableStyle.colourTertiary = "##4a0000";
+        variableStyle.colourPrimary = "#8a0000";
+        variableStyle.colourSecondary = "#870000";
+        variableStyle.colourTertiary = "6e0000";
 
         _Blockly.getMainWorkspace().setTheme(theme);
     };
