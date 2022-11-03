@@ -1,8 +1,8 @@
 {
-    "id": "Darker-red-variables",
+    "id": "red-variables",
     "name": "Darker Red Variables",
     "version": "1.0.0",
-    "description": "Turn variable blocks red",
+    "description": "variable blocks red",
     "author": "Gambit - Edited by andy for personal use",
     "main": "index2.js"
 }
